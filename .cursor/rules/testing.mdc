@@ -1,0 +1,4 @@
+---
+description: Testing and review rules.
+---
+Add/update tests for behavior changes. Cover domain rules, API integration, access control and key E2E journeys. Include invalid input, unauthorized access, insufficient diagnostic evidence and provider failure. Never weaken tests or claim unrun tests passed. Review PRD, architecture, design, security and privacy. Diagnostic changes need teacher-adjudicated evaluation and regression checks.
