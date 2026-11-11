@@ -1,0 +1,4 @@
+---
+description: Frontend implementation rules.
+---
+Follow docs/DESIGN.md and approved PRD journeys. Use TypeScript and existing conventions. Separate presentation, business logic and API access. Include loading, empty, error, success and retry states. Test mobile/tablet/desktop, keyboard, focus, labels and screen readers. Never present tentative diagnosis as fact or expose unauthorized data.
