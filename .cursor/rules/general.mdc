@@ -1,0 +1,5 @@
+---
+description: Project-wide rules for AI coding agents.
+alwaysApply: true
+---
+Read README, RULES, TASKS, PRD and ARCHITECTURE first. Inspect before editing. Work on one bounded task. Do not invent requirements or completed features. Avoid unrelated refactors and unjustified dependencies. Follow decisions and surface conflicts. Never commit secrets or real student data. Report changed files, tests actually run, results, risks and next steps.
