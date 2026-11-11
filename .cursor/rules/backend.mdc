@@ -1,0 +1,4 @@
+---
+description: Backend implementation rules.
+---
+Follow architecture/security docs. Keep routes thin and delegate to application services. Keep domain logic independent of HTTP, persistence and LLM providers. Validate trust boundaries and enforce server-side authorization. Separate raw evidence, hypotheses and mastery. Version content. LLM output cannot independently set mastery. Use transactions and avoid needless infrastructure.
