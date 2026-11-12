@@ -43,7 +43,7 @@ Out of scope initially: full video library, huge question bank, general chatbot,
 - [AI coding rules](../RULES.md) and [.cursor/rules](../.cursor/rules/general.mdc)
 
 ## Repository status
-Planning/documentation only. No application code, runtime logic, credentials, or deployment configuration. Read README, RULES, PRD, ARCHITECTURE and TASKS before using an AI coding agent.
+A fixture-backed React frontend is in `frontend/`. It shows the approved screens with synthetic example copy. It does not authenticate, persist, score, or diagnose. No credentials or deployment configuration. Read README, RULES, PRD, ARCHITECTURE and TASKS before using an AI coding agent.
 
 ## Confidentiality
 Keep this repository private. Never commit secrets or identifiable student records. Use synthetic/de-identified development data. Repository privacy is not a substitute for secure data handling or a guarantee about third-party services.

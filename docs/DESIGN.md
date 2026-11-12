@@ -16,7 +16,9 @@ Calm, focused, encouraging and academically credible. Avoid childish visual trea
 Prioritize batch patterns and teaching actions. Apply aggregation thresholds. Restrict individual evidence to authorized tutors. Make assignment and progress workflows clear.
 
 ## Visual direction
-Use readable high-contrast neutral surfaces, restrained accent, consistent spacing and typography, visible focus, and semantic status indicators. Final brand tokens remain undecided.
+The approved screens in `design-reference/assets` are the working interface. Use the sampled tokens: canvas `#EFF4F8`, sage `#C5D0CF`, warm `#706255`, dark teal `#273E41`, ink `#020101`, and white cards. Muted `#A1A19C` is not for text. Gold `#F0D49D` is for labels on dark teal. Progress fills use dark teal on sage, with a numeric label, so the bar meets non-text contrast. Display type is Outfit SemiBold. Interface type is Inter.
+
+The wordmark on the screens is `clearstep.` The product working title remains HSC Learning Intelligence. The screens say Year 9. The PRD still says HSC Science. Those labels are unresolved and are not a brand or curriculum decision.
 
 ## Accessibility
 Keyboard support, semantic structure, screen-reader labels, sufficient contrast, non-color status cues, text equivalents for diagrams, reduced motion, and responsive checks at narrow mobile, tablet and desktop widths.

@@ -44,5 +44,9 @@ Status: [ ] not started · [/] in progress · [x] complete · [?] blocked.
 - [ ] Validate willingness to pay, retention and operating costs.
 - [ ] Decide to expand, narrow, pivot or stop.
 
+## Fixture interface
+- [x] Student screens for the approved exports, including Activity history, Resources, and Help. Local example copy only.
+- [ ] Tutor teaching resources, tutor help, and the other destinations that still have no approved export.
+
 ## Definition of done
 Acceptance criteria met; relevant tests run; security/privacy reviewed; docs updated; changes reviewed and committed. Start with discovery; do not build broad functionality before curriculum, user problem and pilot access are validated.
