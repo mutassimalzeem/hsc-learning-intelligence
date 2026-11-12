@@ -1,0 +1,2 @@
+# Core testing framework (used for domain diagnosis unit tests)
+pytest>=8.0.0,<10.0.0
