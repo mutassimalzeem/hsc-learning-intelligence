@@ -1,0 +1,25 @@
+:root {
+  --canvas: #eff4f8;
+  --sage: #c5d0cf;
+  --muted: #a1a19c;
+  --warm: #706255;
+  --teal: #273e41;
+  --teal-edge: #142226;
+  --ink: #020101;
+  --white: #ffffff;
+  --sand: #eae5de;
+  --error-surface: #fbeeea;
+  --success-surface: #ddeae2;
+  --success-text: #35634f;
+  --gold: #f0d49d;
+  --font-display: "Outfit", "Segoe UI", sans-serif;
+  --font-ui: "Inter", "Segoe UI", sans-serif;
+  --radius-card: 20px;
+  --radius-control: 12px;
+  --header-height: 88px;
+  --page-width: 1152px;
+  --focus-ring: 2px solid var(--ink);
+  --text-scale: 1;
+}
+
+/* --muted is for non-text marks only. It fails text contrast on canvas and white. */
