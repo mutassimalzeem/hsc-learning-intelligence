@@ -15,7 +15,7 @@ Use these exact labels on every finding, taxonomy entry and decision input:
 - **Working hypothesis** — plausible inference or proposal; state supporting evidence, alternatives and what would disconfirm it. It is not direct user validation.
 - **Open question** — missing evidence, unresolved conflict or decision; name the owner and next verification step.
 
-Maintain a source register and evidence notes during execution. Do not put identifying student information, private messages or confidential strategy into this public repository. No public sources were substantively researched for this reconciliation; no market statistics, competitor capability findings or confirmed syllabus chapters are asserted here. Candidate publishers/platforms below are research targets, not endorsements or evidence.
+Maintain a source register and evidence notes during execution. Do not put identifying student information, private messages or confidential strategy into this public repository. The initial reconciliation did not conduct external research. A later [curriculum desk analysis dated 18 Nov 2026](research/HSC_PHYSICS_CURRICULUM_RESEARCH.md) now records official sources, topic/outcome anchors and access limits; it does not establish market, competitor or student findings. Candidate publishers/platforms below are research targets, not endorsements or evidence.
 
 ## Repository baseline
 
@@ -42,6 +42,8 @@ Assign a named contributor owner and a target review date at kickoff. With two c
 Start by locating authoritative National Curriculum and Textbook Board materials and the relevant education board/examination notices. These are candidate source authorities; confirm official provenance and applicability before labeling any claim Public-source evidence. Record board, exam year/cohort, subject/paper, curriculum version, syllabus publication/amendments, textbook edition and content-use rights. Do not assume a textbook contents page equals the applicable exam syllabus.
 
 Compare current and amended notices; archive document identifiers/page references and record conflicts rather than selecting silently. Build a crosswalk: source chapter/topic → stated learning outcome → proposed concept → inclusion/exclusion rationale → review question. Do not invent chapter numbering or learning outcomes. Have a qualified Physics teacher review the candidate Mechanics boundary and prerequisites. Record name/qualification only with appropriate permission; record actual review date and status. No review is claimed here.
+
+P0-2 update (18 Nov 2026): the [curriculum research](research/HSC_PHYSICS_CURRICULUM_RESEARCH.md) documents an NCTB first-paper baseline and an official distinction between regular HSC 2026 and irregular/improvement syllabuses. It proposes an eight-node motion/force slice, with explicit exclusions and source/outcome references. This is a working hypothesis for qualified review, not an accepted curriculum decision. Pilot board/year/status, approved textbook edition/rights and teacher review remain unresolved; P0-2 stays in progress and its exit gate stays unchecked. The research labels refine this plan's Public-source evidence into Officially verified and Secondary-source supported, and use Proposed interpretation/Unresolved for Working hypothesis/Open question.
 
 ### B. Competitor and substitute analysis
 

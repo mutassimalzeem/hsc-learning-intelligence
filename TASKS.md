@@ -7,7 +7,7 @@ Status: [ ] not started · [/] in progress · [x] complete · [?] blocked.
 All research gates remain open. See [execution plan](docs/PHASE_0_EXECUTION_PLAN.md) for evidence labels, dependencies and acceptance criteria. Interviews are optional follow-up, not prerequisites.
 
 - [ ] P0-1: Create a dated source register with URLs, publisher, scope, evidence label and limitations; assign a named owner to each workstream.
-- [ ] P0-2: Verify board, exam cohort, current syllabus, textbook edition and Mechanics scope against authoritative sources; produce a chapter/objective crosswalk with exclusions and qualified teacher-review questions.
+- [/] P0-2: [Official-source curriculum baseline and proposed motion/force crosswalk](docs/research/HSC_PHYSICS_CURRICULUM_RESEARCH.md) drafted on 18 Nov 2026. Still required: confirm pilot board/year/candidate status and applicable amendments; verify approved textbook edition/rights; obtain qualified Physics teacher review of the eight-node proposal and exclusions. Do not mark complete before these evidence/review gaps close.
 - [ ] P0-3: Produce a sourced competitor/substitute matrix covering assessment, feedback, personalization and tutor workflows; label unverified or inaccessible capabilities unknown.
 - [ ] P0-4: Synthesize public student-learning problem evidence; distinguish Physics/HSC-specific findings, transferred research and anecdotes; state what remains unvalidated.
 - [ ] P0-5: Draft a source-linked Mechanics concept/prerequisite map and provisional misconception taxonomy with observable patterns, alternative explanations and reviewer status.
